@@ -1,4 +1,5 @@
 # CS-230 Software Testing & QA Automation
+This a repo to demonstrate my skills that were developed and honed in my CS 320 course at SNHU.
 
 Testing gives a developer the ability to ensure stability. By testing as code is written, code can correctly align with the requirement needed. This produces software that does what it is needed to do and in a consistent manner. Testing can validate logic under normal use, as well as edge cases to provide secure, stable, and functional software.  
 
